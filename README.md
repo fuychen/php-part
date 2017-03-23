@@ -1,2 +1,2 @@
 # php-part
-step by step
+training
